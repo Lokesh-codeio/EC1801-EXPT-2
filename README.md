@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="DLCD-EXP02 SUB" src="https://github.com/user-attachments/assets/81019cd7-cb40-40b0-9352-2504da1aa84d" /># EXPT 2 - Verification of Logic Gates
+Verification of Logic Gates
 ### SIMULATION AND VERIFICATION OF AND, OR, AND NOT GATES
 ## Aim
 To design, implement, and verify the functionality of basic AND, OR, and NOT logic gates using Verilog HDL, and verify the functionality using Synopsys VCS and DVE.
